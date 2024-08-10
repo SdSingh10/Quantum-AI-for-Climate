@@ -54,5 +54,6 @@ Key components of the project include:
 
 ### Project Presentation Deck:
 _Upload/ Link a 3min. presentation deck here._
+https://docs.google.com/presentation/d/1Ugak3NwsYrgtwpUmKfAzl8kwes3gVJJh/edit?usp=sharing&ouid=113766125369078650111&rtpof=true&sd=true
 
 See project presentation guidelines [here](https://docs.google.com/document/d/13nWF8AxFAfFYTWEYPT3BpPdYkqtxxSAjmuXj_zcMh-E/edit?usp=sharing)
